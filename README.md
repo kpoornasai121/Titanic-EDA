@@ -36,7 +36,7 @@ Want to run this analysis yourself? Here’s how to set it up:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kpoornasai121/titanic-survival-analysis.git
+   git clone https://github.com/kpoornasai121/Titanic-EDA.git
    cd titanic-survival-analysis
    ```
 
