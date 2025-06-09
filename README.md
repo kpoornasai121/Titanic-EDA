@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Hey there! Welcome to my Titanic Survival Analysis project—a dive into the famous Titanic dataset to uncover what factors influenced passengers’ chances of survival. I’m Poornasai, and I loved exploring this dataset with Python to find patterns and insights. This project uses data analysis and visualization to tell the story of the Titanic’s passengers. Hope you find it as fascinating as I do!
 
@@ -63,13 +62,3 @@ Open titanic.ipynb in your browser to explore the analysis.
   ```bash
   pip install jupyter pandas numpy matplotlib seaborn
   ```
-
-## License
-This project is under the MIT License—free to use, modify, or share. See the  file for details.
-
-
-
-
-
-
-
